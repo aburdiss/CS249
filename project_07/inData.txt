@@ -1,0 +1,5 @@
+Johnson, Robert;			603667;	M;	2.844077875
+Elliott, Cayley;			135658;	F;	2.978848017
+Reyes, Connor;				191261;	M;	3.295578577
+Sanchez, Susan;				154838;	F;	2.063213296
+Penn, Frederick;			819367;	M;	2.828974752
